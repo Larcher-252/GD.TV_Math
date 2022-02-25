@@ -1,0 +1,15 @@
+D:\Projects\GD.TV_Math\bin\Debug\net6.0\GD.TV_Math.exe
+D:\Projects\GD.TV_Math\bin\Debug\net6.0\GD.TV_Math.deps.json
+D:\Projects\GD.TV_Math\bin\Debug\net6.0\GD.TV_Math.runtimeconfig.json
+D:\Projects\GD.TV_Math\bin\Debug\net6.0\GD.TV_Math.dll
+D:\Projects\GD.TV_Math\bin\Debug\net6.0\GD.TV_Math.pdb
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\GD.TV_Math.csproj.AssemblyReference.cache
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\GD.TV_Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\GD.TV_Math.AssemblyInfoInputs.cache
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\GD.TV_Math.AssemblyInfo.cs
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\GD.TV_Math.csproj.CoreCompileInputs.cache
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\GD.TV_Math.dll
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\refint\GD.TV_Math.dll
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\GD.TV_Math.pdb
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\GD.TV_Math.genruntimeconfig.cache
+D:\Projects\GD.TV_Math\obj\Debug\net6.0\ref\GD.TV_Math.dll
